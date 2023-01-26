@@ -134,8 +134,5 @@ void threadpool<T>::run()
         request->process();
     }
 }
-<<<<<<< HEAD
-=======
 
 // #endif
->>>>>>> first commit

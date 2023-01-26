@@ -155,8 +155,5 @@ private:
     int bytes_to_send;   // 将要发送的数据的字节数
     int bytes_have_send; // 已经发送的字节数
 };
-<<<<<<< HEAD
-=======
 
 // #endif
->>>>>>> first commit

@@ -1,4 +1,4 @@
-# there is main
+# there is dev
 
 mkdir ./build ./bin to build the project
 
